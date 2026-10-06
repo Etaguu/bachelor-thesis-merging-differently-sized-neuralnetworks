@@ -1,8 +1,0 @@
-Fisher_approximation_experiments
-Fisher_approximation_experiments copy
-continual_learning
-data
-merging
-model
-tabels
-utils
